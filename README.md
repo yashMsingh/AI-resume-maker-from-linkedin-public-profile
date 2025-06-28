@@ -25,7 +25,7 @@ An AI-powered web application that automatically scrapes your LinkedIn profile, 
 
 ## 📥 How to Get the Project
 
-👉 **[Download the Full Project as a ZIP](URL_TO_YOUR_ZIP_FILE)**  
+👉 **[Download the Full Project as a ZIP]](https://github.com/yashMsingh/AI-resume-maker-from-linkedin-public-profile/blob/main/linkedin-20250628T063449Z-1-001.zip))**  
 
 Unzip the folder to view the complete project structure and files.
 
