@@ -121,6 +121,4 @@ Feel free to fork, improve, and raise issues.
 
 ---
 
-## 📄 License
 
-MIT License
